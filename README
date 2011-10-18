@@ -1,0 +1,2 @@
+scp-spk permet de construire un package à destination des NAS Synology.
+Ce spk permet d'ajouter les commandes scp et sftp dans /sbin, et permettre ainsi d'utiliser des outils tels que winscp.
